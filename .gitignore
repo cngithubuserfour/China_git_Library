@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/All/v15
+/src/.qmake.stash
+/src/All.sln
+/src/Parser/debug
+/src/Parser/release
+/src/Parser/x64
+/src/Parser/Parser.vcxproj
+/src/Parser/Parser.vcxproj.filters
+/src/MigrationTool/x64
+/src/MigrationTool/MigrationTool.vcxproj
+/src/MigrationTool/MigrationTool.vcxproj.filters
+/vsbuilder
+/src/Parser/Parser.vcxproj.user
+/src/MigrationTool/debug
+/src/MigrationTool/src.sql
+/src/MigrationTool/MigrationTool.vcxproj.user
+/src/MigrationTool/migration.log
+/src/MigrationTool/dst.sql
+*.sql
+/build-All-Desktop_Qt_5_13_2_MSVC2017_64bit-Debug
+/src/All.pro.user

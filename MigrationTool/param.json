@@ -1,0 +1,21 @@
+{
+    "SourceDB": {
+      "IsFile": "true",
+      "FilePath": "src.sql",
+      "Host": "192.168.0.110",
+      "Port": "1521",
+      "ServiceName": "orcl.local",
+      "SchemaName": "Test",
+      "UserName": "oracle",
+      "Password": "oracle"
+    },
+    "DestinationDB": {
+      "IsFile": "true",
+      "FilePath": "dst.sql",
+      "Host": "192.168.0.110",
+      "Port": "1521",
+      "DatabaseName": "Test",
+      "UserName": "root",
+      "Password": "123456"
+    }
+}
